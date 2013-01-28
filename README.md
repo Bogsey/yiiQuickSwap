@@ -13,7 +13,7 @@ return array(
   ),
   'components' => array(
     'yiiQuickSwap' => array(
-      'class' => 'yiiQickSwap.components.yiiQuickSwap',
+      'class' => 'yiiQuickSwap.components.yiiQuickSwap',
       'users' => array('user1', 'user2'), // a list of users that you want to swap between
       'redirect' => 'application.views.site.index', // where to redirect to after the swap
     ),
