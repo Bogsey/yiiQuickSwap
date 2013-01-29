@@ -22,3 +22,9 @@ return array(
 ```
 Use only on developement builds as this module allows anyone to log in as the users specified in the config file without
 the need for a password.
+### Using the module
+Simply include the following code in the view file where ever you would like the menu to appear.
+```php
+<?php echo $this->renderPartial('yiiQuickSwap.views.menu'); ?>
+```
+or you can point your browser to ***http://your.site.address/index.php?r=yiiQuickSwap***
