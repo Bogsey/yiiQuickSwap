@@ -1,0 +1,12 @@
+{
+	"name":"bogsey/yiiquickswap",
+	"description":"A Yii module allowing the logged in user to be quickly changed to speed up application deveoplement ",
+	"keywords":["yii", "user"],
+	"type":"yii-extension",
+	"license":"BSD",
+	"authors":[
+	{
+		"name":"Mark Joyner",
+	}
+	]
+}
